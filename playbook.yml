@@ -1,0 +1,10 @@
+---
+- hosts: localhost
+  gather_facts: no
+  sudo: yes
+
+  tasks:
+    - name: ping
+      ping:
+
+    # Put your own tasks here
