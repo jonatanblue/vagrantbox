@@ -1,4 +1,4 @@
-### Portalbox
+### Vagrantbox
 
 Provisions a VM on VirtualBox in ~5 minutes
 
