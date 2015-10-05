@@ -1,6 +1,6 @@
 ### Vagrantbox
 
-Provisions an Ubuntu 12.04 VM on VirtualBox in under 1 minute.
+Provisions an Ubuntu 14.04 VM on VirtualBox in under 1 minute.
 
 #### Prerequisites
 
